@@ -1,4 +1,3 @@
-# corona-virus-exploration
 # Corona Virus Data Analysis
 
 This repository contains scripts for performing detailed data analysis on COVID-19 data from the `corona_virus_ds` table in the `mydb` database. The dataset encompasses information on confirmed cases, deaths, and recoveries across various countries and regions.
